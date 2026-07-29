@@ -11,7 +11,9 @@
 ---
 
 🔭 I’m currently working on an **open-source 1:1 Half-Life 2 clone in S&Box** using the S&Box mount system.
+
 🌱 I'm currently learning the fundamentals of 3D modelling, PBR/non-PBR texturing, and design with Adobe tools.
+
 ⚡ I run a **self-built homelab** where I practice networking and system administration skills.
 
 ---
