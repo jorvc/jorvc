@@ -4,7 +4,7 @@
 
 **Part-Time Student.** I am currently studying Electrical Engineering for my associates and plan to transfer to a university.
 
-**Multi-lingual. Proficient in speaking and writing Spanish; intermediate/beginner in Russian and French.
+**Multi-lingual.** Proficient in speaking and writing Spanish; intermediate/beginner in Russian and French.
 
 > ### 💼 Open to commissions and entry-level ops/dev opportunities
 
